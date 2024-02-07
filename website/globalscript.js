@@ -1,3 +1,31 @@
+let navLocation = document.querySelector("#navlocation")
+let navContent = document.createElement("span")
+
+console.log(navLocation)
+console.log(navContent)
+
+navContent.innerHTML = `
+            <nav>
+                <ul>
+                   <li class="deroulant"><img src="Flag-France.png" width="25" height="17" alt="Drapeau Français" title="Drapeau Français"> Français (France) 
+                    <ul class="sous">
+                      <li><a href="index.html"><img src="Flag-France.png" width="25" height="17" alt="Drapeau de la republique Française" title="Drapeau Français"> Français (France)</a></li>
+                      <li><a href="en/index.html"><img src="Flag-United-States-of-the-America.png" width="25" height="17" alt="Drapeau des Etats-Unis D'Amérique" title="Drapeau des USA"> English (U.S.A.)</a></li>
+                      <li><a href="#"><img src="Flag-People's-Republic-of-China.png" width="25" height="17" alt="Drapeau de la chine" title="Drapeau de la Chine"> 中文 (中国)</a></li>
+                    </ul>
+                  </li>
+                  <li class="deroulant">Accueil
+                    <ul class="sous">
+                        <li><a href="index.html">Accueil</a></li>
+                        <li><a href="naturoll.html">Naturoll</a></li>
+                        <li><a href="membres.html">Membres</a></li>
+                    </ul>
+                  </li>
+                </ul>
+            </nav>
+`
+navLocation.append(navContent)
+
 let footerLocation = document.querySelector("#footer")
 let footerContent = document.createElement("span")
 
