@@ -154,3 +154,9 @@ footer{
     background-color: #f0f0f0;
     border-top: #000;
 }
+
+.footerlinks{
+    width: auto;
+    height: 25px;
+    cursor: pointer;
+}
