@@ -14,7 +14,7 @@ navContent.innerHTML = `
                       <li><a href="#"><img src="Flag-People's-Republic-of-China.png" width="25" height="17" alt="Drapeau de la chine" title="Drapeau de la Chine"> 中文 (中国)</a></li>
                     </ul>
                   </li>
-                  <li class="deroulant">Accueil
+                  <li class="deroulant">Naviguer
                     <ul class="sous">
                         <li><a href="index.html">Accueil</a></li>
                         <li><a href="naturoll.html">Naturoll</a></li>
