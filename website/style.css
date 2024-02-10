@@ -129,7 +129,7 @@ a {
 .membercard {
     background-color: #ffffff;
     width: 300px;
-    height: 300px;
+    height: 350px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     margin: 20px;
@@ -159,4 +159,18 @@ footer{
     width: auto;
     height: 25px;
     cursor: pointer;
+}
+.knowndevlang{
+    width: auto;
+    height: 35px;
+}
+.role{
+    width: 250px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 5px;
+}
+.roleName {
+    color: white;
+    font-size: 25px;
 }
