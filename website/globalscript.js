@@ -19,6 +19,7 @@ navContent.innerHTML = `
                         <li><a href="index.html">Accueil</a></li>
                         <li><a href="naturoll.html">Naturoll</a></li>
                         <li><a href="membres.html">Membres</a></li>
+                        <li><a href="listofpages.html">Toutes les pages du site</a></li>
                     </ul>
                   </li>
                   <img src="navlogo.png" class="navLogo">
