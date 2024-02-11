@@ -21,7 +21,7 @@ navContent.innerHTML = `
                         <li><a href="membres.html">Membres</a></li>
                     </ul>
                   </li>
-                  <img src="logo.png">
+                  <img src="navlogo.png" class="navLogo">
                 </ul>
             </nav>
 `
