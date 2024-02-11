@@ -189,3 +189,26 @@ footer {
     height: 35px;
     cursor: pointer;
 }
+.légendeimg{
+    font-style: italic;
+}
+.categoriepage {
+    background-color: orange;
+    width: 250px;
+    height: 35px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+.abig {
+    font-size: 25px;
+}
+.categoriepagenonclick {
+    background-color: orange;
+    width: 250px;
+    height: 35px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
