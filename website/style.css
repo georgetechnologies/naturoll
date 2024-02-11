@@ -150,24 +150,30 @@ a {
     font-size: 40px;
 }
 
-footer{
+footer {
     background-color: #f0f0f0;
     border-top: #000;
 }
 
-.footerlinks{
+.footerlinks {
     width: auto;
     height: 25px;
     cursor: pointer;
 }
-.knowndevlang{
+.knowndevlang {
     width: auto;
     height: 35px;
 }
-.role{
+.role {
     width: 250px;
     height: 30px;
     background-color: orange;
+    border-radius: 5px;
+}
+.roleAdjoint {
+    width: 250px;
+    height: 30px;
+    background-color: rgb(78,122,39);
     border-radius: 5px;
 }
 .roleName {
@@ -177,4 +183,9 @@ footer{
 .navLogo {
     width: 35px;
     height: 35px;
+}
+.knowndevlangclick {
+    width: auto;
+    height: 35px;
+    cursor: pointer;
 }
