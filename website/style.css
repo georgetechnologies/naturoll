@@ -170,11 +170,19 @@ footer {
     background-color: orange;
     border-radius: 5px;
 }
+.roleClick {
+    width: 250px;
+    height: 30px;
+    background-color: orange;
+    border-radius: 5px;
+    cursor: pointer;
+}
 .roleAdjoint {
     width: 250px;
     height: 30px;
     background-color: rgb(78,122,39);
     border-radius: 5px;
+    cursor: pointer;
 }
 .roleName {
     color: white;
