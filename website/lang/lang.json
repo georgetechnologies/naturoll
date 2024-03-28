@@ -18,7 +18,7 @@
         {"fr":"Solutions techniques pour les épreuves","en":""},
         {"fr":"Programmation du robot","en":""},
         {"fr":"Développement du site internet","en":""}
-    ]
+    ],
 
     "naturollconceptionhtml":[
         {"fr":"Conception","en":""},
@@ -29,7 +29,7 @@
         {"fr":"lorem ipsum","en":""},
         {"fr":"lorem ipsum","en":""},
         {"fr":"lorem ipsum","en":""}
-        ]
+        ],
 
     "naturollderoulementhtml":[
         {"fr":"Déroulement du projet","en":""},
@@ -38,5 +38,5 @@
         {"fr":"Difficultés recontrées","en":""},
         {"fr":"lorem ipsum","en":""},
         {"fr":"Text in https://raw.githubusercontent.com/georgetechnologies/naturoll/main/website/lang/naturoll-deroulement.html/longtext.txt","en":""}
-    ]
+    ],
 }
