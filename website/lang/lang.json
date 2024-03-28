@@ -56,10 +56,7 @@
 
         "textes":[
             {"fr":"lorem ipsum","en":""},
-            {"fr":"L'équipe de Naturoll a été confrontée à de nombreux problèmes lors de la conception du robot Naturoll.<br><ul><li class="list-nr"><p>La première de toutes fut lors de la programmation pour l'épreuve numéro 1. <a href="lucas.html">Lucas</a> a passé du 
-                temps à essayer de corriger un problème: dans l'épreuve numéro 1 où le robot doit pouvoir suivre des lignes parfaitement, lorsque Naturoll rencontrait un virage en angle droit (voir image ci dessous), soit le robot tournait correctement dans une direction 
-                mais faisait n'importe quoi dans l'autre direction, soit le robot s'arrête net. Ce problème a été très vite corrigé par <a href="lucas.html">Lucas</p></a>.</li></ul><br><center><img src="naturoll test track.jpeg" width="400" height="400" class="img-rounded-corners">
-                <p class="legendeimg">Circuit "Naturoll Test Track" utilisé pour les tests du suiveur de lignes</p></center>","en":""}
+            {"fr":"Text in naturollderoulement.html/longtext.txt","en":""}
         ]
     ]
 }
