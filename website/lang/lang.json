@@ -22,14 +22,14 @@
 
     "naturollconceptionhtml":[
         {"fr":"Conception","en":""},
-        {"fr":"Page précédente","en":""}
+        {"fr":"Page précédente","en":""},
         {"fr":"Structure mécanique du robot","en":""},
         {"fr":"Solutions techniques","en":""},
         {"fr":"Électronique et programmation","en":""},
         {"fr":"lorem ipsum","en":""},
         {"fr":"lorem ipsum","en":""},
         {"fr":"lorem ipsum","en":""}
-        ],
+    ],
 
     "naturollderoulementhtml":[
         {"fr":"Déroulement du projet","en":""},
