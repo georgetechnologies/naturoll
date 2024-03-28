@@ -1,13 +1,13 @@
 let navLocation = document.querySelector("#navlocation")
 let navContent = document.createElement("span")
-let params = new URLSearchParams(window.location.search)
-let lang = params.get("lang")
+let LANGparams = new URLSearchParams(window.location.search)
+let lang2 = LANGparams.get("lang")
 
 console.log(navLocation)
 console.log(navContent)
 
 if(
-            lang === "en"
+            lang2 === "en"
 ){
           navContent.innerHTML = `
             <nav>
