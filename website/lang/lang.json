@@ -6,57 +6,38 @@
     ],
 
     "naturollhtml": [
-        "cat1": [
         {"fr":"Conception","en":""},
         {"fr":"Structure mécanique du robot","en":""},
         {"fr":"Solutions techniques","en":""},
-        {"fr":"Électronique et programmation","en":""}
-        ],
-
-        "cat2":[
+        {"fr":"Électronique et programmation","en":""},
         {"fr":"Déroulement du projet","en":""},
         {"fr":"Étapes de conception","en":""},
-        {"fr":"Difficultés rencontrées","en":""}
-        ],
-
-        "cat3":[
+        {"fr":"Difficultés rencontrées","en":""},
         {"fr":"Rôles et répartitions des tâches","en":""},
         {"fr":"Design du robot et de sa carosserie","en":""},
         {"fr":"Solutions techniques pour les épreuves","en":""},
         {"fr":"Programmation du robot","en":""},
         {"fr":"Développement du site internet","en":""}
-        ]
     ]
 
     "naturollconceptionhtml":[
         {"fr":"Conception","en":""},
         {"fr":"Page précédente","en":""}
-
-        "titres":[
-            {"fr":"Structure mécanique du robot","en":""},
-            {"fr":"Solutions techniques","en":""},
-            {"fr":"Électronique et programmation","en":""}
-        ],
-
-        "textes":[
-            {"fr":"lorem ipsum","en":""},
-            {"fr":"lorem ipsum","en":""},
-            {"fr":"lorem ipsum","en":""}
+        {"fr":"Structure mécanique du robot","en":""},
+        {"fr":"Solutions techniques","en":""},
+        {"fr":"Électronique et programmation","en":""},
+        {"fr":"lorem ipsum","en":""},
+        {"fr":"lorem ipsum","en":""},
+        {"fr":"lorem ipsum","en":""}
         ]
     ]
 
     "naturollderoulementhtml":[
         {"fr":"Déroulement du projet","en":""},
         {"fr":"Page précédente","en":""},
-
-        "titres":[
-            {"fr":"Étapes de conception","en":""},
-            {"fr":"Difficultés recontrées","en":""}
-        ],
-
-        "textes":[
-            {"fr":"lorem ipsum","en":""},
-            {"fr":"Text in https://raw.githubusercontent.com/georgetechnologies/naturoll/main/website/lang/naturoll-deroulement.html/longtext.txt","en":""}
-        ]
+        {"fr":"Étapes de conception","en":""},
+        {"fr":"Difficultés recontrées","en":""},
+        {"fr":"lorem ipsum","en":""},
+        {"fr":"Text in https://raw.githubusercontent.com/georgetechnologies/naturoll/main/website/lang/naturoll-deroulement.html/longtext.txt","en":""}
     ]
 }
