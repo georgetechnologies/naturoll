@@ -1,16 +1,62 @@
 {
     "indexhtml": [
-        {
-            "fr":"Le Naturoll",
-            "en":"The Naturoll"
-        },
-        {
-            "fr":"Prêt à gagner le concours robotique.",
-            "en":"Ready to win the robotic's contest."
-        },
-        {
-            "fr":"Découvrir",
-            "en":"Discover"
-        }
+        {"fr":"Le Naturoll","en":"The Naturoll"},
+        {"fr":"Prêt à gagner le concours robotique.","en":"Ready to win the robotic's contest."},
+        {"fr":"Découvrir","en":"Discover"}
+    ]
+
+    "naturollhtml": [
+        "cat1": [
+        {"fr":"Conception","en":""},
+        {"fr":"Structure mécanique du robot","en":""},
+        {"fr":"Solutions techniques","en":""},
+        {"fr":"Électronique et programmation","en":""}
+        ],
+
+        "cat2":[
+        {"fr":"Déroulement du projet","en":""},
+        {"fr":"Étapes de conception","en":""},
+        {"fr":"Difficultés rencontrées","en":""}
+        ],
+
+        "cat3":[
+        {"fr":"Rôles et répartitions des tâches","en":""},
+        {"fr":"Design du robot et de sa carosserie","en":""},
+        {"fr":"Solutions techniques pour les épreuves","en":""},
+        {"fr":"Programmation du robot","en":""},
+        {"fr":"Développement du site internet","en":""}
+        ]
+    ]
+
+    "naturollconceptionhtml":[
+        {"fr":"Conception","en":""},
+        {"fr":"Page précédente","en":""}
+
+        "titres":[
+            {"fr":"Structure mécanique du robot","en":""},
+            {"fr":"Solutions techniques","en":""},
+            {"fr":"Électronique et programmation","en":""}
+        ],
+
+        "textes":[
+            {"fr":"lorem ipsum","en":""},
+            {"fr":"lorem ipsum","en":""},
+            {"fr":"lorem ipsum","en":""}
+        ]
+    ]
+
+    "naturollderoulementhtml":[
+        {"fr":"Déroulement du projet","en":""},
+        {"fr":"Page précédente","en":""},
+
+        "titres":[
+            {"fr":"Étapes de conception","en":""},
+            {"fr":"Difficultés recontrées","en":""}
+        ],
+
+        "textes":[
+            {"fr":"lorem ipsum","en":""},
+            {"fr":"L'équipe de Naturoll a été confrontée à de nombreux problèmes lors de la conception du robot Naturoll.<br><ul><li class="list-nr"><p>La première de toutes fut lors de la programmation pour l'épreuve numéro 1. <a href="lucas.html">Lucas</a> a passé du temps à essayer de corriger un problème: dans l'épreuve numéro 1 où le robot doit pouvoir suivre des lignes parfaitement, lorsque Naturoll rencontrait un virage en angle droit (voir image ci dessous), soit le robot tournait correctement dans une direction mais faisait n'importe quoi dans l'autre direction, soit le robot s'arrête net. Ce problème a été très vite corrigé par <a href="lucas.html">Lucas</p></a>.</li></ul><br><center><img src="naturoll test track.jpeg" width="400" height="400" class="img-rounded-corners"><p class="legendeimg">Circuit "Naturoll Test Track" utilisé pour les tests du suiveur de lignes</p></center>","en":""}
+        ]
     ]
 }
