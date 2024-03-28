@@ -56,7 +56,7 @@
 
         "textes":[
             {"fr":"lorem ipsum","en":""},
-            {"fr":"Text in naturollderoulement.html/longtext.txt","en":""}
+            {"fr":"Text in naturoll-deroulement.html/longtext.txt. Please fetch : https://raw.githubusercontent.com/georgetechnologies/naturoll/main/website/lang/naturoll-deroulement.html/longtext.txt","en":""}
         ]
     ]
 }
