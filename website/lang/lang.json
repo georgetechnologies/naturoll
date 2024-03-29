@@ -1,7 +1,10 @@
 {
-    "indexhtml": [
+    "forall": [
         {"fr":"Le Naturoll","en":"The Naturoll"},
-        {"fr":"Prêt à gagner le concours robotique.","en":"Ready to win the robotic's contest."},
+        {"fr":"Prêt à gagner le concours robotique.","en":"Ready to win the robotic's contest."}
+    ],
+    
+    "indexhtml": [
         {"fr":"Découvrir","en":"Discover"}
     ],
 
