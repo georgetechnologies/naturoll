@@ -20,9 +20,12 @@
         {"fr":"Développement du site internet","en":""}
     ],
 
+    "naturollChilds": [
+        {"fr":"Page précédente","en":""}
+    ],
+
     "naturollconceptionhtml":[
         {"fr":"Conception","en":""},
-        {"fr":"Page précédente","en":""},
         {"fr":"Structure mécanique du robot","en":""},
         {"fr":"Solutions techniques","en":""},
         {"fr":"Électronique et programmation","en":""},
@@ -36,7 +39,15 @@
         {"fr":"Page précédente","en":""},
         {"fr":"Étapes de conception","en":""},
         {"fr":"Difficultés recontrées","en":""},
-        {"fr":"lorem ipsum","en":""},
-        {"fr":"Text in https://raw.githubusercontent.com/georgetechnologies/naturoll/main/website/lang/naturoll-deroulement.html/longtext.txt","en":""}
+        {"fr":"Le robot Naturoll a comme base le Kitronik move motor et un chassis en bois fabriqué sur mesure avec un design rappelant la nature.","en":""},
+        {"fr":"L'équipe de Naturoll a été confrontée à de nombreux problèmes lors de la conception du robot Naturoll.","en":""},
+        {"fr":"Circuit Naturoll Test Track utilisé pour les tests du suiveur de lignes","en":""}
+    ],
+
+    "deroulementDifficulte1": [
+        {"fr":"La première de toutes fut lors de la programmation pour l'épreuve numéro 1. Lucas a passé du temps à essayer de corriger un problème:","en":""},
+        {"fr":" dans l'épreuve numéro 1 où le robot doit pouvoir suivre des lignes parfaitement, lorsque Naturoll rencontrait un virage en angle droit (voir image ci dessous), ","en":""},
+        {"fr":"soit le robot tournait correctement dans une direction mais faisait n'importe quoi dans l'autre direction, soit le robot s'arrête net.","en":""},
+        {"fr":"Ce problème a été très vite corrigé par Lucas.","en":""}
     ]
 }
