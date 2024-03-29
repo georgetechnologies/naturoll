@@ -30,9 +30,13 @@ async function main () {
     ){
         title.append(miseEnForme(text.forall[0].en))
         subtitle.append(miseEnForme(text.forall[1].en))
+        titles1.append(miseEnForme(text.naturollhtml[0].en))
+        titles2.append(miseEnForme(text.naturollhtml[4].en))
     } else {
         title.append(miseEnForme(text.forall[0].fr))
         subtitle.append(miseEnForme(text.forall[1].fr))
+        titles1.append(miseEnForme(text.naturollhtml[0].fr))
+        titles2.append(miseEnForme(text.naturollhtml[4].fr))
     }
 }
 
