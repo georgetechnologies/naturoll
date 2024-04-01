@@ -32,9 +32,9 @@
         {"fr":"Structure mécanique du robot","en":""},
         {"fr":"Solutions techniques","en":""},
         {"fr":"Électronique et programmation","en":""},
-        {"fr":"lorem ipsum","en":""},
-        {"fr":"lorem ipsum","en":""},
-        {"fr":"lorem ipsum","en":""}
+        {"fr":"La structure mécanique du robot est faite de bois. Elle a été découpée par une découpe laser dans du bois de 3mm.","en":""},
+        {"fr":"L'attrape balle du robot est fait à partir du même bois que la carosserie. Il a été fait par Thomas.","en":""},
+        {"fr":"La programmation du robot et son électronique ont été gérés par Lucas. L'électronique du robot est très sommaire avec l'utilisation que nous en avons.","en":""}
     ],
 
     "naturollderoulementhtml":[
@@ -52,5 +52,10 @@
         {"fr":" dans l'épreuve numéro 1 où le robot doit pouvoir suivre des lignes parfaitement, lorsque Naturoll rencontrait un virage en angle droit (voir image ci dessous), ","en":""},
         {"fr":"soit le robot tournait correctement dans une direction mais faisait n'importe quoi dans l'autre direction, soit le robot s'arrête net.","en":""},
         {"fr":"Ce problème a été très vite corrigé par Lucas.","en":""}
+    ],
+
+    "deroulementDifficulte2": [
+        {"fr":"Une autre difficulté a été liée avec la structure mécanique du robot.","en":""},
+        {"fr":"Lors de la découpe d'une dees pièces, une des pièces s'est mal imprimée et ne s'emboitait pas avec les autres.","en":""}
     ]
 }
