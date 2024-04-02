@@ -49,16 +49,110 @@
 
     "deroulementDifficulte1": [
         {"fr":"La première de toutes fut lors de la programmation pour l'épreuve numéro 1. Lucas a passé du temps à essayer de corriger un problème:","en":""},
-        {"fr":" dans l'épreuve numéro 1 où le robot doit pouvoir suivre des lignes parfaitement, lorsque Naturoll rencontrait un virage en angle droit (voir image ci dessous), ","en":""},
+        {"fr":"dans l'épreuve numéro 1 où le robot doit pouvoir suivre des lignes parfaitement, lorsque Naturoll rencontrait un virage en angle droit (voir image ci dessous),","en":""},
         {"fr":"soit le robot tournait correctement dans une direction mais faisait n'importe quoi dans l'autre direction, soit le robot s'arrête net.","en":""},
         {"fr":"Ce problème a été très vite corrigé par Lucas.","en":""}
     ],
 
     "deroulementDifficulte2": [
         {"fr":"Une autre difficulté a été liée avec la structure mécanique du robot.","en":""},
-        {"fr":"Lors de la découpe d'une dees pièces, une des pièces s'est mal imprimée et ne s'emboitait pas avec les autres.","en":""}
+        {"fr":"Lors de la découpe d'une des pièces, une des pièces s'est mal imprimée et ne s'emboitait pas avec les autres.","en":""}
     ],
-    "": [
-        
+
+    "naturollroleshtml": [
+        {"fr":"Rôles et répartitions des tâches","en":""},
+        {"fr":"Design du robot et de sa carosserie","en":""},
+        {"fr":"Solutions techniques pour les épreuves","en":""},
+        {"fr":"Programmation du robot","en":""},
+        {"fr":"Développement du site internet","en":""},
+        {"fr":"Pour le design, Joshua est parti sur un thème Naturel et des couleurs naturelles (vert, bleu), le nom du robot, Naturoll vient d'ailleurs d'un mix entre Nature et roll pour rouler.","en":""},
+        {"fr":"C'est Johusa DELAIGUE qui a designé le robot et sa carrosserie.","en":""},
+        {"fr":"Thomas a travaillé sur l'attrape balle et sur l'arbre qui est sur le toit du robot.","en":""},
+        {"fr":"C'est Thomas FOUET qui a trouvé les solutions techniques pour les épreuves.","en":""},
+        {"fr":"Le robot Naturoll est programmé en langage bloc, avec l'outil","en":""},
+        {"fr":"Makecode for micro:bit.","en":""},
+        {"fr":"Le site du robot Naturoll est développé en","en":""},
+        {"fr":"HTML (corps du site) ainsi qu'en","en":""},
+        {"fr":"CSS (esthétique du site) et en","en":""},
+        {"fr":"JavaScript (interactivité).","en":""},
+        {"fr":"C'est Philéas PLATTET qui a developpé le site internet.","en":""}
+    ],
+
+    "membreshtml": [
+        {"fr":"Les membres de Naturoll","en":""},
+        {"fr":"Découvrez qui a travaillé sur le robot","en":""},
+        {"fr":"THOMAS","en":"THOMAS"},
+        {"fr":"LUCAS","en":"LUCAS"},
+        {"fr":"JOSHUA","en":"JOSHUA"},
+        {"fr":"PHILÉAS","en":"PHILEAS"},
+        {"fr":"En savoir plus","en":"Learn more"}
+    ],
+
+    "membresForAll": [
+        {"fr":"SECRÉTAIRE","en":""},
+        {"fr":"INGÉNIEUR","en":""},
+        {"fr":"PROGRAMMEUR","en":""},
+        {"fr":"TECHNICIEN","en":""},
+        {"fr":"TRADUCTEUR","en":""},
+        {"fr":"DESIGNER","en":""},
+        {"fr":"GESTIONNAIRE","en":""},
+        {"fr":"CHEF DE PROJET","en":""},
+        {"fr":"DÉVELOPPEUR","en":""},
+        {"fr":"TROISIEME 4 - CND 22","en":""},
+        {"fr":"Cliquez sur un rôle pour en savoir plus.","en":""},
+        {"fr":"Retour","en":""}
+    ],
+
+    "knownDevLangs": [
+        {"fr":"Connaît :","en":""},
+        {"fr":"Microsoft MakeCode for micro:bit est un outil permmettant le codage en bloc pour la carte BBC micro:bit","en":""},
+        {"fr":"Le HTML 5 est un language de programmation permettant de créer des pages web. Le HTML permet de créer la structure du site, les textes etc.","en":""},
+        {"fr":"Le CSS 3 permet de rajouter du style à la page web.","en":""},
+        {"fr":"Le JavaScript permet de rajouter du dynamisme à la page web. C'est ce language qui gère les intèraction comme les boutons.","en":""}
+    ],
+
+    "thomashtml": [
+        {"fr":"Thomas","en":""},
+        {"fr":"Thomas est secrétaire. Le secrétaire remplit la feuille qui dit ce que fais chaque personne à chaque cours.","en":""},
+        {"fr":"Thomas est ingénieur. L'ingénieur cherche les solutions techniques pour les différentes épreuves. Par exemple l'attrappe balle pour l'épreuve","en":""}
+    ],
+
+    "lucashtml": [
+        {"fr":"Lucas","en":""},
+        {"fr":"Lucas est programmeur. Le programmeur code le robot Naturoll avec Microsoft Makecode for micro:bit qui lui permet de coder en language bloc type scratch.","en":""},
+        {"fr":"Lucas est technicien. Le technicien s'occupe de la partie électronique du robot.","en":""},
+        {"fr":"Lucas est traducteur. Le traducteur s'occupe de traduire les pages du site web en anglais.","en":""},
+        {"fr":"DÉV. ADJOINT","en":""},
+        {"fr":"Lucas est développeur adjoint. Le développeur adjoint aide le développeur lors de difficultés rencontrées.","en":""}
+    ],
+
+    "joshuahtml": [
+        {"fr":"Joshua","en":""},
+        {"fr":"Joshua est designer. Le designer designe la carosserie du robot et les couleurs globales du projet.","en":""},
+        {"fr":"Joshua est gestionnaire. Le gestionnaire gère le budget de l'équipe et passe les commandes de matériaux nécésaires.","en":""}
+    ],
+
+    "phileashtml": [
+        {"fr":"Philéas","en":""},
+        {"fr":"Philéas est le chef de projet. C'est lui qui gère l'équipe en général.","en":""},
+        {"fr":"Philéas est développeur informatique. C'est lui qui est en charge du développement du site internet.","en":""},
+        {"fr":"PROGRAMMEUR ADJ.","en":""},
+        {"fr":"Philéas est programmeur adjoint. C'est lui qui aide le programmeur en cas de difficultés.","en":""}
+    ],
+
+    "listofpageshtml": [
+        {"fr":"Toutes les pages du site","en":""},
+        {"fr":"Ici sont recensées toutes les pages du site, au cas où vous en chercheriez une en particulier !","en":""},
+        {"fr":"Accueil","en":""},
+        {"fr":"Naturoll","en":""},
+        {"fr":"Membres","en":""},
+        {"fr":"Autres","en":""},
+        {"fr":"Conception","en":""},
+        {"fr":"Déroulement","en":""},
+        {"fr":"Thomas","en":""},
+        {"fr":"Lucas","en":""},
+        {"fr":"Joshua","en":""},
+        {"fr":"Philéas","en":""},
+        {"fr":"Toutesles pages du site","en":""}
     ]
 }
