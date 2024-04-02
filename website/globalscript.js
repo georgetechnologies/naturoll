@@ -20,7 +20,7 @@ if(
                         <li><a href="listofpages.html">Every pages of the website</a></li>
                     </ul>
                   </li>
-                  <li class="deroulant"><img src="Flag-United-States-of-the-America.png" width="25" height="17" alt="Drapeau des Etats-Unis D'Amérique" title="Drapeau des USA">
+                  <li class="deroulant"><img src="Flag-United-States-of-the-America.png" width="25" height="17" alt="Drapeau des Etats-Unis D'Amérique" title="Drapeau des USA"> English
                     <ul class="sous">
                       <li><a href="?lang=fr"><img src="Flag-France.png" width="25" height="17" alt="Drapeau de la republique Française" title="Drapeau Français"> Français (France)</a></li>
                       <li><a href="?lang=en"><img src="Flag-United-States-of-the-America.png" width="25" height="17" alt="Drapeau des Etats-Unis D'Amérique" title="Drapeau des USA"> English (U.S.A.)</a></li>
@@ -42,7 +42,7 @@ if(
                         <li><a href="listofpages.html">Toutes les pages du site</a></li>
                     </ul>
                   </li>
-                  <li class="deroulant"><img src="Flag-France.png" width="25" height="17" alt="Drapeau de la republique Française" title="Drapeau Français">
+                  <li class="deroulant"><img src="Flag-France.png" width="25" height="17" alt="Drapeau de la republique Française" title="Drapeau Français"> Français
                     <ul class="sous">
                       <li><a href="?lang=fr"><img src="Flag-France.png" width="25" height="17" alt="Drapeau de la republique Française" title="Drapeau Français"> Français (France)</a></li>
                       <li><a href="?lang=en"><img src="Flag-United-States-of-the-America.png" width="25" height="17" alt="Drapeau des Etats-Unis D'Amérique" title="Drapeau des USA"> English (U.S.A.)</a></li>
