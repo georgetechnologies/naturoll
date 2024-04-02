@@ -57,5 +57,8 @@
     "deroulementDifficulte2": [
         {"fr":"Une autre difficulté a été liée avec la structure mécanique du robot.","en":""},
         {"fr":"Lors de la découpe d'une dees pièces, une des pièces s'est mal imprimée et ne s'emboitait pas avec les autres.","en":""}
+    ],
+    "": [
+        
     ]
 }
