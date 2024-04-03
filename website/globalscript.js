@@ -14,10 +14,10 @@ if(
                 <ul>
                   <li class="deroulant">Browse
                     <ul class="sous">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="naturoll.html">Naturoll</a></li>
-                        <li><a href="membres.html">Members</a></li>
-                        <li><a href="listofpages.html">Every pages of the website</a></li>
+                        <li><a href="index.html?lang=en">Home</a></li>
+                        <li><a href="naturoll.html?lang=en">Naturoll</a></li>
+                        <li><a href="membres.html?lang=en">Members</a></li>
+                        <li><a href="listofpages.html?lang=en">Every pages of the website</a></li>
                     </ul>
                   </li>
                   <li class="deroulant"><img src="Flag-United-States-of-the-America.png" width="25" height="17" alt="Drapeau des Etats-Unis D'Amérique" title="Drapeau des USA"> English
@@ -36,10 +36,10 @@ if(
                 <ul>
                   <li class="deroulant">Naviguer
                     <ul class="sous">
-                        <li><a href="index.html">Accueil</a></li>
-                        <li><a href="naturoll.html">Naturoll</a></li>
-                        <li><a href="membres.html">Membres</a></li>
-                        <li><a href="listofpages.html">Toutes les pages du site</a></li>
+                        <li><a href="index.html?lang=fr">Accueil</a></li>
+                        <li><a href="naturoll.html?lang=fr">Naturoll</a></li>
+                        <li><a href="membres.html?lang=fr">Membres</a></li>
+                        <li><a href="listofpages.html?lang=fr">Toutes les pages du site</a></li>
                     </ul>
                   </li>
                   <li class="deroulant"><img src="Flag-France.png" width="25" height="17" alt="Drapeau de la republique Française" title="Drapeau Français"> Français
