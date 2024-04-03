@@ -6,9 +6,7 @@
     
     "indexhtml": [
         {"fr":"Découvrir","en":"Discover"},
-        {"fr":"NATUROLL","en":"NATUROLL"},
-        {"fr":"MEMBRES","en":"MEMBERS"},
-        {"fr":"Découvrez les membres de Naturoll","en":"Discover Naturoll's members"}
+        {"fr":"NATUROLL","en":"NATUROLL"}
     ],
 
     "naturollhtml": [
