@@ -1,5 +1,5 @@
-let bouton = document.querySelector("#discover")
-let mbouton = document.querySelector("#Mdiscover")
+let bouton = document.querySelector("#db")
+let mbouton = document.querySelector("#mdb")
 let p = new URLSearchParams(window.location.search)
 let l = p.get("lang")
 
