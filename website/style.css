@@ -115,6 +115,8 @@ nav > ul li:hover .sous{
 }
 .list-nr {
     list-style-type: disc;
+    cursor: pointer;
+    font-style: italic;
 }
 .list-nr2 {
     list-style-type: square;
@@ -235,4 +237,5 @@ footer {
 
 .margin10px {
     margin-left: 50px;
+    margin-right: 100px;
 }
