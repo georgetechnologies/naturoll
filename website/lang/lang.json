@@ -33,7 +33,7 @@
     "naturollconceptionhtml":[
         {"fr":"Conception","en":"Conception"},
         {"fr":"Structure mécanique du robot","en":"Mechanical structure of the robot"},
-        {"fr":"Solutions techniques","en":"Technical solutionS"},
+        {"fr":"Solutions techniques","en":"Technical solutions"},
         {"fr":"Électronique et programmation","en":"Electronics and programming"},
         {"fr":"La structure mécanique du robot est faite de bois. Elle a été découpée par une découpe laser dans du bois de 3mm.","en":"The robot's mechanical structure is made of wood. It was cut by a laser in 3mm wood."},
         {"fr":"L'attrape balle du robot est fait à partir du même bois que la carosserie. Il a été fait par Thomas.","en":"The robot's ball catcher is part of the same wood as the bodywork.  It was made by Thomas."},
