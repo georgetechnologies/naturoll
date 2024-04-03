@@ -24,11 +24,11 @@ async function main () {
     if(
         lang === "en"
     ){
-        title.append(miseEnForme(text.forall[0].en))
+        title.append(miseEnForme(text.indexhtml[1].en))
         subtitle.append(miseEnForme(text.forall[1].en))
         buttontext.append(miseEnForme(text.indexhtml[0].en))
     } else {
-        title.append(miseEnForme(text.forall[0].fr))
+        title.append(miseEnForme(text.indexhtml[1].fr))
         subtitle.append(miseEnForme(text.forall[1].fr))
         buttontext.append(miseEnForme(text.indexhtml[0].fr))
     }
