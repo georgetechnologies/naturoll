@@ -239,3 +239,8 @@ footer {
     margin-left: 50px;
     margin-right: 100px;
 }
+
+.list-nrc {
+    list-style-type: disc;
+    font-style: italic;
+}
