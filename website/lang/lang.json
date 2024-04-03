@@ -5,7 +5,8 @@
     ],
     
     "indexhtml": [
-        {"fr":"Découvrir","en":"Discover"}
+        {"fr":"Découvrir","en":"Discover"},
+        {"fr":"NATUROLL","en":"NATUROLL"}
     ],
 
     "naturollhtml": [
