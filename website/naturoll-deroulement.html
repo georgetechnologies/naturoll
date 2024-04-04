@@ -6,6 +6,7 @@
         <link rel="icon" href="logo.png">
         <script src="naturollcscript.js" defer></script>
         <script src="globalscript.js" defer></script>
+        <script src="lang/naturoll-deroulement.html/lang.js" defer></script>
     </head>
     <body>
             <!--Barre de Navigation-->
@@ -13,49 +14,40 @@
             <!--content-->
             <br><br><br>
             <div>
-            <center>
-            <h1 class="size75px">
-                NATUROLL
-            </h1>
-            <p>
-                Prêt à gagner le concours robotique.
-            </p>
-            </center>
+                <center>
+                    <h1 class="size75px">
+                        <center id="TITLE"></center>
+                      </h1>
+                      <h1><center id="SUBTITLE"></center></h1>
+                    </center>
         <div>
-            <h1>
-                ↪︎ Déroulement du projet
+            <h1 id="maintitle">
             </h1>
-            <h2>
-                ↪︎ Étapes de conception
+            <h2 id="titles1">
             </h2>
-            <p>
-               Le robot Naturoll lorem ipsum dolor sit amet consectetur adipisicing elit. Aut dolorum earum excepturi ad ut similique cum tempora molestiae facere beatae eos quasi expedita nam distinctio ex facilis, perspiciatis fuga cumque!
+            <p id="text1">
             </p>
-            <h2>
-                ↪︎ Difficultés rencontrés
+            <h2 id="titles2">
             </h2>
             <p>
-               L'équipe de Naturoll a été confrontée à de nombreux problèmes lors de la conception du robot Naturoll.<br>
+               <span id="text2">L'équipe de Naturoll a été confrontée à de nombreux problèmes lors de la conception du robot Naturoll.</span><br>
                 <ul>
-                    <li class="list-nrc"><p>
-                        La première de toutes fut lors de la programmation pour l'épreuve numéro 1. <a href="lucas.html">Lucas</a> a
-                passé du temps à essayer de corriger un problème: dans l'épreuve numéro 1 où le robot doit pouvoir suivre des lignes parfaitement,
-                    lorsque Naturoll rencontrait un virage en angle droit (voir image ci dessous), soit le robot tournait correctement dans une direction
-                    mais faisait n'importe quoi dans l'autre direction, soit le robot s'arrête net. Ce problème a été très vite corrigé par <a href="lucas.html">Lucas
-                    </p></a>.</li>
+                    <li class="list-nrc"><p id="difficulte1">
+                    </p></li>
+                    <li class="list-nrc">
+                        <p id="difficulte2"></p>
+                    </li>
                 </ul>
                 <br>
                 <center><img src="naturoll test track.jpeg" width="400" height="400" class="img-rounded-corners">
-                <p class="legendeimg">
-                    Circuit "Naturoll Test Track" utilisé pour les tests du suiveur de lignes
+                <p class="legendeimg" id="ntt">
                 </p>
             </center>
             </p>
         </div>
     <center>
         <button class="button" id="backToNaturoll">
-            <p class="button-text">
-                Page précédente
+            <p class="button-text" id="textebouton">
             </p>
         </button>
     </center>
