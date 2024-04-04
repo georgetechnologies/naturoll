@@ -43,10 +43,10 @@ titles3.addEventListener("click", function onClick () {
     if(
         lang === "en"
     ){
-        window.location = "naturoll-membres.html?lang=en"
+        window.location = "naturoll-roles.html?lang=en"
     }
     else {
-        window.location = "naturoll-membres.html?lang=fr"
+        window.location = "naturoll-roles.html?lang=fr"
     }
 })
 
