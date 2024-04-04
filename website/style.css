@@ -202,7 +202,7 @@ footer {
     font-style: italic;
 }
 .categoriepage {
-    background-color: orange;
+    background-color: rgb(39, 121, 245);
     width: 250px;
     height: 35px;
     color: white;
@@ -214,7 +214,7 @@ footer {
     font-size: 25px;
 }
 .categoriepagenonclick {
-    background-color: orange;
+    background-color: rgb(39, 121, 245);
     width: 250px;
     height: 35px;
     color: white;
@@ -243,4 +243,8 @@ footer {
 .list-nrc {
     list-style-type: disc;
     font-style: italic;
+}
+
+.p25 {
+    font-size: 25px;
 }
