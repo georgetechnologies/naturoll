@@ -6,6 +6,7 @@
         <link rel="icon" href="logo.png">
         <script src="lopscript.js" defer></script>
         <script src="globalscript.js" defer></script>
+        <script src="lang/listofpages.html/lang.js" defer></script>
     </head>
     <body>
             <!--Barre de Navigation-->
@@ -14,27 +15,27 @@
             <br><br><br>
             <div align=center>
               <h1 class="size75px">
-                <center>Toutes les pages du site</center>
+                <center id="TITLE"></center>
               </h1>
-              <h1><center>Ici sont recensées toutes les pages du site, au cas où vous en chercheriez une en particulier ! ;&#41;</center></h1>
+              <h1><center id="SUBTITLE"></center></h1>
                 <div align=left>
-                    <div class="categoriepage" id="accueilcat"><h1>Accueil</h1></div>
-                    <div class="categoriepage" id="naturollcat"><h1>Naturoll</h1></div>
+                    <div class="categoriepage"><h1 id="accueilcat"></h1></div>
+                    <div class="categoriepage"><h1 id="naturollcat"></h1></div>
                     <ul>
-                        <li><a class="abig" href="naturoll-conception.html">Conception</a></li>
-                        <li><a class="abig" href="naturoll-deroulement.html">Déroulement</a></li>
-                        <li><a class="abig" href="naturoll-roles.html">Rôles</a></li>
+                        <li><span class="p25" id="conception"></span></li>
+                        <li><span class="p25" id="deroulement"></span></li>
+                        <li><span class="p25" id="roles"></span></li>
                     </ul>
-                    <div class="categoriepage" id="membrescat"><h1>Membres</h1></div>
+                    <div class="categoriepage"><h1 id="membrescat"></h1></div>
                     <ul>
-                        <li><a class="abig" href="thomas.html">Thomas</a></li>
-                        <li><a class="abig" href="lucas.html">Lucas</a></li>
-                        <li><a class="abig" href="joshua.html">Joshua</a></li>
-                        <li><a class="abig" href="phileas.html">Philéas</a></li>
+                        <li><span class="p25">Thomas</span></li>
+                        <li><span class="p25">Lucas</span></li>
+                        <li><span class="p25">Joshua</span></li>
+                        <li><span class="p25">Philéas</span></li>
                     </ul>
-                    <div class="categoriepagenonclick"><h1>Autres</h1></div>
+                    <div class="categoriepagenonclick"><h1 id="nonclick"></h1></div>
                     <ul>
-                        <li><a class="abig" href="listofpages.html">Toute les pages du site</a></li>
+                        <li><span class="p25" id="aop"></span></li>
                     </ul>
                 </div>
               <br><br>
