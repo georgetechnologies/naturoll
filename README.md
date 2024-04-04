@@ -1,3 +1,5 @@
 // FINAL RUSH TODOLIST
 
-- Update listofpages.html ; style.css ; lang.js ; lopscript.js ; lang.json to GitHub
+- GIF BUTTON
+- RELEASE "V1"
+- V1 TO USB FLASHDRIVE
