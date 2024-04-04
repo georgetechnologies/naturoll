@@ -248,3 +248,8 @@ footer {
 .p25 {
     font-size: 25px;
 }
+
+.titres {
+    font-size:30px;
+    text-decoration: underline;
+}
