@@ -7,6 +7,7 @@
         <script src="globalscript.js" defer></script>
         <script src="membrescscript.js" defer></script>
         <script src="devlangLP.js" defer></script>
+        <script src="lang/phileas.html/lang.js" defer></script>
     </head>
     <body>
             <!--Barre de Navigation-->
@@ -20,7 +21,7 @@
               <p>3è4 - CND22</p>
                 <center>
                     <span>
-                      <p class="legendeimg">Cliquez sur un rôle pour en savoir plus.</p>
+                      <p class="legendeimg" id="clickrole"></p>
                       <span id="secretaire"></span>
                       <span id="ingenieur"></span>
                       <span id="designer"></span>
@@ -29,14 +30,14 @@
                       <span id="technicien"></span>
                       <span id="traducteur"></span>
                       <span id="devadj"></span>
-                      <div class="roleClick"><h1 class="roleName" id="chefdp">CHEF DE PROJET</h1></div>
-                      <div class="roleClick"><h1 class="roleName" id="dev">DÉVELOPPEUR</h1></div>
-                      <div class="roleAdjoint"><h1 class="roleName" id="progadj">PROGRAMMEUR ADJ.</h1></div>
+                      <div class="roleClick"><h1 class="roleName" id="chefdp"></h1></div>
+                      <div class="roleClick"><h1 class="roleName" id="dev"></h1></div>
+                      <div class="roleAdjoint"><h1 class="roleName" id="progadj"></h1></div>
                       <p id="clickaction"></p>
                     </span>
                     <br>
                     <span>
-                      <p>Connaît :
+                      <p><span id="knows"></span>
                         <span id="devlangMB"></span>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"  class="knowndevlangclick" id="devlangHTML">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"  class="knowndevlangclick" id="devlangCSS">
@@ -48,12 +49,10 @@
               <center>
                 <br>
                 <button class="smallerbutton" id="backToMembersPage">
-                  <p class="button-text">Retour</p>
+                  <p class="button-text" id="buttonbacktext"></p>
                 </button>
               </center>
               <br><br>
             </div>
-            <!--Footer-->
-            <div id="footer"></div>
     </body>
 </html>
