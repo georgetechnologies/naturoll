@@ -7,6 +7,7 @@
         <script src="globalscript.js" defer></script>
         <script src="membrescscript.js" defer></script>
         <script src="devlangLP.js" defer></script>
+        <script src="lang/lucas.html/lang.js" defer></script>
     </head>
     <body>
             <!--Barre de Navigation-->
@@ -20,7 +21,7 @@
               <p>3è4 - CND22</p>
                 <center>
                     <span>
-                      <p class="legendeimg">Cliquez sur un rôle pour en savoir plus.</p>
+                      <p class="legendeimg" id="clickrole"></p>
                       <span id="secretaire"></span>
                       <span id="ingenieur"></span>
                       <span id="designer"></span>
@@ -28,15 +29,15 @@
                       <span id="chefdp"></span>
                       <span id="dev"></span>
                       <span id="progadj"></span>
-                      <div class="roleClick" id="programmeur"><h1 class="roleName">PROGRAMMEUR</h1></div>
-                      <div class="roleClick" id="technicien"><h1 class="roleName">TECHNICIEN</h1></div>
-                      <div class="roleClick" id="traducteur"><h1 class="roleName">TRADUCTEUR</h1></div>
-                      <div class="roleAdjoint" id="devadj"><h1 class="roleName">DÉV. ADJOINT</h1></div>
+                      <div class="roleClick"><h1 class="roleName" id="programmeur"></h1></div>
+                      <div class="roleClick"><h1 class="roleName" id="technicien"></h1></div>
+                      <div class="roleClick"><h1 class="roleName" id="traducteur"></h1></div>
+                      <div class="roleAdjoint"><h1 class="roleName" id="devadj"></h1></div>
                       <p id="clickaction"></p>
                     </span>
                     <br>
                     <span>
-                      <p>Connaît :
+                      <p><span id="knows"></span>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Microbit-logo-stacked.png"  class="knowndevlangclick" id="devlangMB">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"  class="knowndevlangclick" id="devlangHTML">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"  class="knowndevlangclick" id="devlangCSS">
@@ -48,7 +49,7 @@
               <center>
                 <br>
                 <button class="smallerbutton" id="backToMembersPage">
-                  <p class="button-text">Retour</p>
+                  <p class="button-text" id="buttonbacktext"></p>
                 </button>
               </center>
               <br><br>
