@@ -7,7 +7,7 @@ console.log(buttonBackToNaturoll)
 
 buttonBackToNaturoll.addEventListener("click", function onClick () {
     if(
-        lang === "en"
+        l === "en"
     ){
         window.location = `naturoll.html?lang=en`
     }
