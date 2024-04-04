@@ -107,7 +107,7 @@
     ],
 
     "knownDevLangs": [
-        {"fr":"Connaît :","en":"Learn"},
+        {"fr":"Connaît :","en":"Learn :"},
     {"fr":"Microsoft MakeCode for micro:bit est un outil permmettant le codage en bloc pour la carte BBC micro:bit","en":"Microsoft MakeCode for micro:bit is a tool to code using blocs the BBC micro:bit chip"},
         {"fr":"Le HTML 5 est un langage de programmation permettant de créer des pages web. Le HTML permet de créer la structure du site, les textes etc.","en":"HTML 5 is a markup language used to create web pages. HTML is used used to create the website's structure, texts..."},
         {"fr":"Le CSS 3 permet de rajouter du style à la page web.","en":"CSS 3 add style to the web page."},
