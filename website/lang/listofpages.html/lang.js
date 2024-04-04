@@ -61,8 +61,8 @@ async function main () {
         naturollCat.append(miseEnForme(text.listofpageshtml[3].fr))
         membresCat.append(miseEnForme(text.listofpageshtml[4].fr))
         nonclick.append(miseEnForme(text.listofpageshtml[5].fr))
-        conception.append(miseEnForme(text.listofpageshtml[6].en))
-        deroulement.append(miseEnForme(text.listofpageshtml[7].en))
+        conception.append(miseEnForme(text.listofpageshtml[6].fr))
+        deroulement.append(miseEnForme(text.listofpageshtml[7].fr))
         roles.append("Rôles")
         aop.append(miseEnForme(text.listofpageshtml[12].fr))
     }
