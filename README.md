@@ -1,4 +1,3 @@
 // FINAL RUSH TODOLIST
 
-- Translation of phileas.html
-- Translation of listofpages.html
+- Update listofpages.html ; style.css ; lang.js ; lopscript.js ; lang.json to GitHub
