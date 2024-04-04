@@ -6,6 +6,7 @@
         <link rel="icon" href="logo.png">
         <script src="globalscript.js" defer></script>
         <script src="membrescscript.js" defer></script>
+        <script src="lang/joshua.html/lang.js" defer></script>
     </head>
     <body>
             <!--Barre de Navigation-->
@@ -19,11 +20,11 @@
               <p>3è4 - CND22</p>
                 <center>
                     <span>
-                      <p class="legendeimg">Cliquez sur un rôle pour en savoir plus.</p>
+                      <p class="legendeimg" id="clickrole"></p>
                       <span id="secretaire"></span>
                       <span id="ingenieur"></span>
-                      <div class="roleClick"><h1 class="roleName" id="designer">DESIGNER</h1></div>
-                      <div class="roleClick"><h1 class="roleName" id="gestionnaire">GESTIONNAIRE</h1></div>
+                      <div class="roleClick"><h1 class="roleName" id="designer"></h1></div>
+                      <div class="roleClick"><h1 class="roleName" id="gestionnaire"></h1></div>
                       <span id="programmeur"></span>
                       <span id="technicien"></span>
                       <span id="traducteur"></span>
@@ -40,7 +41,7 @@
               <center>
                 <br>
                 <button class="smallerbutton" id="backToMembersPage">
-                  <p class="button-text">Retour</p>
+                  <p class="button-text" id="buttonbacktext"></p>
                 </button>
               </center>
               <br><br>
