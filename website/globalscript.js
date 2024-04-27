@@ -26,7 +26,7 @@ if(
                       <li><a href="?lang=en"><img src="Flag-United-States-of-the-America.png" width="25" height="17" alt="Drapeau des Etats-Unis D'Amérique" title="Drapeau des USA"> English (U.S.A.)</a></li>
                     </ul>
                   </li>
-                  <img src="navlogo.png" class="navLogo">
+                  <img src="navLogo.png" class="navLogo">
                 </ul>
             </nav>
 `  
@@ -48,7 +48,7 @@ if(
                       <li><a href="?lang=en"><img src="Flag-United-States-of-the-America.png" width="25" height="17" alt="Drapeau des Etats-Unis D'Amérique" title="Drapeau des USA"> English (U.S.A.)</a></li>
                     </ul>
                   </li>
-                  <img src="navlogo.png" class="navLogo">
+                  <img src="navLogo.png" class="navLogo">
                 </ul>
             </nav>
 `
