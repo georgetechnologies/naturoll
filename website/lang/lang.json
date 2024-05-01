@@ -159,5 +159,21 @@
         {"fr":"Joshua","en":"Joshua"},
         {"fr":"Philéas","en":"Phileas"},
         {"fr":"Toutes les pages du site","en":"Every pages of the site"}
+    ],
+
+    "afterhtml": [
+        {"fr":"EPREUVES","en":"TESTS"},
+        {"fr":"Malheureusement, Naturoll n'a pas tellement brillé dans ses différentes épreuves.","en":"Sadly, The Naturoll bot did not shine during the tests."},
+        {"fr":"Les épreuves totalement réussies sont :","en":"The fully successful test are :"},
+        {"fr":"Le suiveur de ligne","en":"The line-following test"},
+        {"fr":"Le labyrinthe programmé (sans capteurs)","en":"The programmed labyrinth"},
+        {"fr":"Le labyrinthe avec capteurs","en":"The labyrinth with sensors"},
+        {"fr":"Le jeu du dé","en":"The dice game"},
+        {"fr":"Les épreuves partiellement réussies sont : ","en":"The not fully successful tests are :"},
+        {"fr":"L'adhérence","en":"The grip test"},
+        {"fr":"Les épreuves ratées sont :","en":"The failed tests are :"},
+        {"fr":"Le golf programmé","en":"The programmed golf"},
+        {"fr":"Le bowling","en":"The Bowling"},
+        {"fr":"Le scorpion","en":"The «scorpion»"},
     ]
 }
