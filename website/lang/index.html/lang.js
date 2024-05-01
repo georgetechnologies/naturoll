@@ -6,6 +6,9 @@ let buttontext = document.querySelector("#discover")
 let Mbuttontext = document.querySelector("#Mdiscover")
 let Mtitle = document.querySelector("#MEMBERSTITLE")
 let Msubtitle = document.querySelector("#MEMBERSSUBTITLE")
+let Atitle = document.querySelector("#AFTERTITLE")
+let Asubtitle = document.querySelector("#AFTERSUBTITLE")
+let Abuttontext = document.querySelector("#AFTERdiscoverTxt")
 let text
 
 function miseEnForme (texts) {
@@ -30,16 +33,22 @@ async function main () {
         title.append(miseEnForme(text.indexhtml[1].en))
         Mtitle.append(miseEnForme(text.indexhtml[2].en))
         subtitle.append(miseEnForme(text.forall[1].en))
-        Msubtitle.append(miseEnForme(text.indexhtml[3].en))
+        Msubtitle.append(miseEnForme(text.indexhtml[5].en))
         buttontext.append(miseEnForme(text.indexhtml[0].en))
         Mbuttontext.append(miseEnForme(text.indexhtml[0].en))
+        Atitle.append(miseEnForme(text.indexhtml[3].en))
+        Asubtitle.append(miseEnForme(text.indexhtml[4].en))
+        Abuttontext.append(miseEnForme(text.indexhtml[0].en))
     } else {
         title.append(miseEnForme(text.indexhtml[1].fr))
         Mtitle.append(miseEnForme(text.indexhtml[2].fr))
         subtitle.append(miseEnForme(text.forall[1].fr))
-        Msubtitle.append(miseEnForme(text.indexhtml[3].fr))
+        Msubtitle.append(miseEnForme(text.indexhtml[5].fr))
         buttontext.append(miseEnForme(text.indexhtml[0].fr))
         Mbuttontext.append(miseEnForme(text.indexhtml[0].fr))
+        Atitle.append(miseEnForme(text.indexhtml[3].fr))
+        Asubtitle.append(miseEnForme(text.indexhtml[4].fr))
+        Abuttontext.append(miseEnForme(text.indexhtml[0].fr))
     }
 }
 
