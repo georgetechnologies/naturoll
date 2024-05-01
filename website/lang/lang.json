@@ -182,5 +182,7 @@
         {"fr":"Pour l'épreuve du scorpion, Naturoll est tombé contre un adversaire très redoutable qui réussissait mieux à faire exploser les ballons","en":"For the «scorpion» test, Naturoll fought agaisnt an opponent that was exploding balloons better than him"},
         {"fr":"Pour l'épreuve du dé, pendant que Naturoll faisait des rectangles, quelqu'un est passé et a malencontreusement donné un coup de pied dans Naturoll, ce qui l'a obligé à recommencer et a un peu deréglé ses capteurs","en":"For the dice test, while Naturoll was making his rectangles, someone accidently kicked the robot, that forced Naturoll to restart the test"},
         {"fr":"Pour l'épreuve d'adhérence, la technique utilisée en test au collège ne marchait que sur les petits angles, ce qui nous a également coûté des points","en":"For the grip test, the technic we used at school only worked on small angles, that also costed us some points"}
+        {"fr":"RÉSULTATS","en":"RESULTS"},
+        {"fr":"Nous sommes revenus du concours avec une seule place sur un podium, ce n'est ni sur l'esthétique du robot (la concurrence était redoutable), ni sur les épreuves (nous avons un peu raté), mais bien sur le site internet. Nous avons fait le troisième meilleur site internet du concours! Un super résultat surtout pour le développeur qui s'est beaucoup investi dans le développement du site.","en":"We came back from the contest with only one place on a podium : the third best website! An incredible result especially for the dev that spent so many time developing the website."}
     ]
 }
