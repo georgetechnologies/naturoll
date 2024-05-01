@@ -1,0 +1,23 @@
+EPREUVES
+Malheureusement, Naturoll n'a pas tellement brillé dans ses différentes épreuves.
+Les épreuves totalement réussies sont :
+Le suiveur de ligne
+Le labyrinthe programmé (sans capteurs)
+Le labyrinthe avec capteurs
+Le jeu du dé
+Les épreuves partiellement réussies sont : 
+L'adhérence
+Les épreuves ratées sont :
+Le golf programmé
+Le bowling
+Le scorpion
+
+PROBLÈMES
+Naturoll a rencontré quelques problèmes durant le concours :
+Le robot n'allait pas parfaitement droit, ce qui nous a couté des points au bowling
+L'attrape balle se détachait trop facilement : l'épreuve du golf n'a pas pu être possible
+Pour l'épreuve du scorpion, Naturoll est tombé contre un adversaire très redoutable qui réussissait mieux à faire exploser les ballons
+Pour l'épreuve du dé, pendant que Naturoll faisait des rectangles, quelqu'un est passé et a malencontreusement donné un coup de pied dans Naturoll, ce qui l'a obligé à recommencer et a un peu deréglé ses capteurs
+Pour l'épreuve d'adhérence, la technique utilisée en test au collège ne marchait que sur les petits angles, ce qui nous a également coûté des points
+
+RÉSULTATS
