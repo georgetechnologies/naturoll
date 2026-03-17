@@ -1,6 +1,6 @@
 # Site Web Naturoll NBX
 ---
-Ce site web HTML / CSS / Javascript a été réalisé en 2023 pour le concours de robotique entre collèges de Bressuire.
+Ce site web HTML / CSS / Javascript a été réalisé en 2024 pour le concours de robotique entre collèges de Bressuire.
 Il a remporté le prix du 3ème meilleur site internet du concours.
 
 Ce projet est terminé depuis mai 2023. Tout le code reste accessible et disponible pour tous.
