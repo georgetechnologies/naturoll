@@ -158,7 +158,8 @@
         {"fr":"Lucas","en":"Lucas"},
         {"fr":"Joshua","en":"Joshua"},
         {"fr":"Philéas","en":"Phileas"},
-        {"fr":"Toutes les pages du site","en":"Every pages of the site"}
+        {"fr":"Toutes les pages du site","en":"Every pages of the site"},
+        {"fr":"Après le concours","en":"After the contest"}
     ],
 
     "afterhtml": [
