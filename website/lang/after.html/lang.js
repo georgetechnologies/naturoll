@@ -43,7 +43,7 @@ function miseEnForme (texts) {
 }
 
 async function main () {
-    let ans = await fetch("https://raw.githubusercontent.com/georgetechnologies/naturoll/main/website/lang/lang.json", {
+    let ans = await fetch("/website/lang/lang.json", {
         headers: {
             Accept: 'application/json'
         }
