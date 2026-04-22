@@ -6,6 +6,7 @@ Il a remporté le prix du 3ème meilleur site internet du concours.
 Ce projet est terminé depuis mai 2024. Tout le code reste accessible et disponible pour tous.
 Bien que le projet ait été réalisé de manière très simpliste, il reste symbolique.
 
-Il reste accessible [ici](https://georgetechnologies.github.io/naturoll/website/). (Hébergement GitHub Pages)
+Il reste accessible [ici](https://georgetechnologies.github.io/naturoll/website/). (Hébergement GitHub Pages) <br>
+[Télécharger](https://github.com/georgetechnologies/naturoll/releases/latest) - [Visiter le site](https://georgetechnologies.github.io/naturoll/website/index.html)
 
 - L'équipe de Georges Technologies
